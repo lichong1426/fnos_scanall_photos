@@ -1,0 +1,15 @@
+{
+    "host":"http://192.168.22.201:5666",
+    "users":[
+        {
+            "username": "liuying",
+            "password": "liuying1994"
+        },
+        {
+            "username": "lichong",
+            "password": "lichong1994",
+            "secret_key": "7G2JSOSWJFVA3MB7E63II77475B6M6EE"
+        }
+    ],
+    "timer":["11:18","19:00","02:00"]
+}
