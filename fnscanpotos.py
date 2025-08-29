@@ -1,4 +1,4 @@
-#!myenv/bin/python
+#!/usr/local/src/fnos_scanall_photos/myenv/bin/python
 
 from selenium import webdriver
 from selenium.webdriver.chromium.service import ChromiumService
